@@ -6,3 +6,8 @@
 * Structure websites that can be easily found through a search engine (SEO = search engine optimization)
 * Test sites and continuously fix bugs/other issues
 * Anticipate user needs and behaviour 
+* NOT web design (transform design into code that a web browser can read and display)
+* work closely with graphic designers, back-end developers, project managers, quality assurance (QA) testers 
+* create responsive design: sites that work and look good on different devices
+
+***
