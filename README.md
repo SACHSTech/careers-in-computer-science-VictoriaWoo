@@ -22,13 +22,28 @@ Front-end web developers address the visual/design elements and interactable por
 
 In web development, there are few specific degrees, however it is traditionally coupled with a bachelor in computer science. The key to success is commitment to ongoing learning to stay on top of fast moving changes/updates to languages, tool and trends. 
 
-***
-1) Associate in web development (two year program, focusing on getting students in and out, can get entry level postions)
-2) Bachelor in computer science (traditional path, at least four years)
-3) Master’s in web development (most take two years, complete a bachelor’s degree first)
-4) Web development concentrations (choose a focus within web development, e.g. full-stack, web design, web programming, helpful if you want to pursue a particular niche in web development)
-5) Web development bootcamps (intensive, accelerated path, around 14 weeks, still cost a tuition)
-6) Web development certifications (demonstrate your competence in a particular skills and you meet industry standards, e.g. Google Developers Certification)
-Increasing worthwhile investment, employers are increasingly dependent
+A few possible paths in education are outlined below:
+
+1) Associate in web development
+    * two year program
+    * entry level positions
+    * focused on getting students in and out
+2) Bachelor in computer science
+    * four year minimum
+    * "traditional" path
+3) Master’s in web development 
+    * most take approximately two years
+    * requires a bachelor’s degree
+4) Web development concentrations
+    * choose a focus within web development (e.g. full-stack, web design, web programming) 
+    * helpful if you want to pursue a particular niche in web development
+5) Web development bootcamps
+    * intensive, accelerated path
+    * approximately 14 weeks
+    * tuition still required
+6) Web development certifications
+    * demonstrate your competence in a particular skills and that you meet industry standards
+    * e.g. Google Developers Certification
+    * increasingly worthwhile investment, employers are becoming more dependent
 
 ### **What Technical and Non-Technical Skills do I need?**
