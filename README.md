@@ -51,16 +51,11 @@ A few possible paths in education are outlined below:
 
 > NOTE: To help form the connection with the back-end side of development, it may be helpful to also become familiar with backend associated langauges. (e.g. Python, PHP, Ruby etc.)
 
-| *Technical* Skill      | Description         |
-| :---------------------:|---------------------|
-| HTML, CSS, Javascript  | Foundation of front-end web development|
-| DOM Manipulation|
-| JSON
-| React
-| Angular
-| Vue
-| Swift
-
-
-***
-
+| *Technical* Skill     | Description                                                             
+| :--------------------:|-------------------------------------------------------------------------
+| HTML, CSS, Javascript | *HyperText Markup Language, Cascading Style Sheets, JavaScript*, the foundation of front-end web development                                 
+| DOM Manipulation      | *Document object model*, a programming interface representing the structure and content of any document on the web. This is useful for building interactive websites where users can store information or direct their own experience. (reflecting user preferences and needs)                                                                            
+| JSON                  | *JavaScript Object Notation*, a data format providing a text-based representation of web data. This is essential for any site where information needs to be transferred between users and on the website's back-end
+| React                 | A JavaScript library that enables front-end developers to build user interfaces. This is used to describe/declare how they wish the DOM to be changed and how the UI appears. React is particularly useful for developing applications that function like a desktop program.
+| Angular               | One of this framework's main goals is to build single-page apps (SPAs). It provides a standard for members in a team to work with, as well as ease in creating large applications that are easy to manage. 
+| Swift                 | Swift is used to create iOS, iPadOS, macOS, tvOS, and watchOS applications. Frameworks and other third-party tools can easily be integrated with its built-in features and libraries.
