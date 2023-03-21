@@ -1,6 +1,6 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10086952&assignment_repo_type=AssignmentRepo)
 # **_FRONT-END WEB DEVELOPER_**
-### **What is it?**
+## **What is it?**
 Front-end web developers address the visual/design elements and interactable portion of websites/web applications ("client-side"). This is done using various langauges such as HTML, CSS, Javascript etc. They form the link between design in the user interface (UI) and the back-end systems. 
 
 ### IMAGE
@@ -15,6 +15,7 @@ Front-end web developers address the visual/design elements and interactable por
 
 ***
 
+## **THE PATH TO SUCCESS...**
 ### **What Education is Required?**
 > NOTE: There are many pathways to web development. Though many jobs descriptions may demand for the following, it is not always required. According to _Stack Overflow_, almost 70% of all developers are at least partially self-taught, with even 13% saying they are exclusively self-taught. 
 
@@ -47,3 +48,19 @@ A few possible paths in education are outlined below:
     * increasingly worthwhile investment, employers are becoming more dependent
 
 ### **What Technical and Non-Technical Skills do I need?**
+
+> NOTE: To help form the connection with the back-end side of development, it may be helpful to also become familiar with backend associated langauges. (e.g. Python, PHP, Ruby etc.)
+
+| *Technical* Skill      | Description         |
+| :---------------------:|---------------------|
+| HTML, CSS, Javascript  | Foundation of front-end web development|
+| DOM Manipulation|
+| JSON
+| React
+| Angular
+| Vue
+| Swift
+
+
+***
+
