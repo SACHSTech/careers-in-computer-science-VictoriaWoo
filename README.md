@@ -59,3 +59,14 @@ A few possible paths in education are outlined below:
 | React                 | A JavaScript library that enables front-end developers to build user interfaces. This is used to describe/declare how they wish the DOM to be changed and how the UI appears. React is particularly useful for developing applications that function like a desktop program.
 | Angular               | One of this framework's main goals is to build single-page apps (SPAs). It provides a standard for members in a team to work with, as well as ease in creating large applications that are easy to manage. 
 | Swift                 | Swift is used to create iOS, iPadOS, macOS, tvOS, and watchOS applications. Frameworks and other third-party tools can easily be integrated with its built-in features and libraries.
+
+#### **Non-Technical Skills**
+
+1) Communication 
+    * Frequent relay of information between UI/UX designers, front-end + back-end *needs* to be smooth to complete a project
+
+2) Teamwork
+    * Similar to the previous point, working with others is a daily occurance. Even as a freelance developer, you must work well with clients.
+
+3) Willingness to learn 
+    * As a dynamic industry, developers must keep designs up to date, requiring an open mind. 
