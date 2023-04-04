@@ -78,4 +78,76 @@ A few possible paths in education are outlined below:
 
 ***
 
-## **LOOKING FOR A JOB, WHAT NOW?**
+## **LOOKING FOR A JOB, WHAT DOES THIS LOOK LIKE?**
+> NOTE on salary range: Front-end developers are highly sought after, being the second hardest job to fill in tech (Indeed). The U.S. Bureau of Labor reported the job market expecting to grow even by another 15% by 2026. As well, in Canada, the average yearly salary is $85,360 while the most experienced positions can pay around $127,500 annually. 
+
+| Job Title | Salary | City | Additional Skills/Experience |
+| :--------:|--------|------|------------------------------| 
+| Web Developer (Axis Infotech) | 31.25/hr (37.5 hrs/week) | Brampton | N/A
+| Front End Developer (Clay) | $65,000 - $90,000 | Toronto |Familiarity with modern front-end development tools and frameworks such as  webpack and Babel. Familiarity with version control systems such as Git.
+| Senior Developer, Web Portal (Bank of Canada) | $110,630 | Ottawa or Toronto |Experience and understand of source control systems (essential): advanced branching and merging techniques (e.g. TFS, SVN or CVS). Experience with Liquid or equivalent templating engine. Experience developing within Dynamics 365/CRM. Experience working with Swagger and Web API services. 
+
+### Individual Job Descriptions:
+**Axis Infotech (Entry level/0-2 years) - [Web Developer Posting](https://ca.indeed.com/viewjob?jk=e2e2577d27e96462&tk=1gpp3uf92k5q0802&from=serp&vjs=3)**
+* Consult with clients to develop and document Website requirements
+* Prepare mock-ups and storyboards
+* Develop Website architecture and determine hardware and software requirements
+* Source, select and organize information for inclusion and design the appearance, layout and flow of the Website
+* Create and optimize content for Website using a variety of graphics, database, animation and other software
+* Research and evaluate a variety of interactive media software products
+* Conduct tests and perform security and quality controls
+* Plan, design, write, modify, integrate and test Web-site related code
+
+ **Clay (Mid level/3-5 years) - [Front End Developer Posting](https://ca.indeed.com/viewjob?cmp=Kavtek&t=Front+End+Developer&jk=3cce3661b8967347&vjs=3)**
+* You will be a key player in delivering high-quality, user-friendly web experiences to home builders and buyers. Your responsibilities will include:
+    * Developing and maintaining user-facing features and functionality using React, CSS, and JavaScript.
+    * Collaborating with designers and product managers to create and refine user interfaces.
+    * Ensuring optimal performance, accessibility, and cross-browser compatibility of web applications.
+    * Debugging and fixing compatibility issues across a variety of devices and browsers.
+    * Staying up-to-date with the latest web development technologies and trends.
+
+**Bank of Canada (Senior level/5+ years) - [Senior Developer Posting](https://ca.indeed.com/viewjob?jk=acdf97ce9e0ae9ea&tk=1gpp34mcsjqvo800&from=serp&vjs=3&advn=3967133856909150&adid=391109432&ad=-6NYlbfkN0BLPcwp45_P_qAjawN3sy1akHpLABjOwWqDB2GgAmZLEiCjkCAK3KF9Uloe13u3Zcx0zIiWbbOCECoxgxHwkozi1_crW1iGb8dbUQ2_-ACT9xGAH_gHYgCmPZySDacgdOPysmQ_nyXEhspSSwCzgludSdtiU74B-Es7bCGgq-XgDFowTvsIOJGXE0jCzrjiNEB4jsmqvApmKySKwbFXN3VirJNylZufnjr3hTWJi2UWf3u-ufAuF43SmN3WYyLKYOGIanDEs_etn5WZsmkDj8vnR30orOZUlUk1vfug_DYR6JbJXlOQ_iiFhn-S75TnOHFSaz4CcSiBtJus5mJC7l5Y2khCo0tTdViS1HXbVLwafOdACSNzY-YO48LypyeQjoRJzmAMzKrK-D4X_Jj7h0j0uEfp14tJjAiwdaZN_3RDneRJRY8sqwZg&sjdu=0ZFwD5rbjMRcHz87Kzx_gzIouWHnNhFfaoy7ezMz_HShz-wYqm9so32ojvK-ZOFAC9wkUJGs3kbBOOIBrAZQlSDfYuhlr0P4kQ1JKGskfA4nDoDAEVxBBe7MikcX2JMdh6H6sqfUju8sjTqp9gosgbLORW1CT4Zf__fH6mUuthERRyiuYJL95OCb9r9EfE_TOlaW4IsNnUuRq7ORlafssIkTy_HECqtS_zx-7dM3dBHrFzSEG0fLBAT6-Gd-1wEl)**
+* “As a Web Portal Developer, you will be responsible for developing new features and maintaining existing components the Bank’s RPS regulatory IT platform comprised of a modern HTML5/CSS/JS/Liquid web portal, Dynamics 365 CRM, SharePoint, CollabSpace, 10+ Azure services (Front Door, APIM, B2C, Power Apps) and multiple system integrations.”
+* Contribute to the development of the web portal application
+Analyze, design and implement enhancements to meet business requirements
+* Maintain collaborative relationships with internal clients and external counterparts
+* Perform technical and root-cause analysis on issues and make recommendations for correction
+* Create working procedures and documentation on solutions and populate knowledge databases, testing plans and results
+* Look for new ways of doing or providing services to our clients; changing or reconfiguring approaches to improve efficiency and capacity
+* Ensure compliance with audit requirements during the support and maintenance of applications
+* Provide second and third-line support, including evening and weekend paid overtime work as required
+
+***
+
+## **UNIVERSITY ENTRANCE**
+The program....
+_Computer Science (Honours Bachelor of Science) - University of Toronto_
+
+Entrance Requirements: 
+
+1. Grade range: Low 90s
+ENG4U/MCV4U
+2. Supplemental application by their document deadlines
+3. Language requirements: if English if not the first language, you must provide evidence of adequate English facility for admission consideration
+4. Ontario applications must present six 4U/M courses including prerequisites 
+
+Sample first year courses are listed in the table below from the [UofT site](https://newstudentguide.artsci.utoronto.ca/sample-timetable-computerscience/). 
+
+| Course Name | Course Code | Description |
+| :---------: |-----------| -----------|
+| Calculus with Proofs | MAT137Y1 | Attention is given to computational aspects as well as problem-solving techniques, limits and continuity, mean value theorem, elementary transcendental functions, inververse function theorem, differentiation, integration, fundamental theorem of calculus, Taylor’s theorem, sequences and series, power series and applications |
+| Foundations of Computer Science I | CSC110Y1 | Introduction to the field of computer science, combines tools/techniques of programming using Python, topics include data representations, program control flow, mathematical logic/formal proof, algorithms and running time analysis, software engineering principles |
+| Introduction to Sociology I | SOC100H1 | Sociological Perspectives (analyze the globilization of culture, emerging patterns of class, race and gender inequality in Canada and internationally, criminal and deviant behaviour etc.) |
+| Elementary French I | FSL100H1 | basic, comprehensive training in written and spoken French |
+| Multiculturalism / Philosophy / Film | CCR199H1 | N/A
+
+> Note: To complete the degree, students must also meet a Breadth Requirement that allows them to explore courses outside of their program of study. 
+
+Breadth Requirement Categories: 
+1. CCR: Creative and Cultural Representations
+2. TBB: Thought, Belief and Behaviour
+3. SI: Society and its Institutions
+4. LTE: Living Things and Their Environment
+5. PMU: Physical and Mathematical Universes
+
+> Total time to complete Computer Science (Honours Bachelor of Science) at UofT is four years.
