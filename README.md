@@ -171,5 +171,66 @@ Aside from the studying all day, experiential learning is crucial to building a 
 * Look for these on: [Upwork](https://www.upwork.com/freelance-jobs/frontend-development/) or [Fiverr](https://www.fiverr.com/categories/programming-tech?source=breadcrumbs)
 
 ## Get Involved in Open Source Projects
+* Open source consists of publicly available code that anybody can modify.
+* This puts your hard skills into practice and additionally offers the opportunity to work collaboratively with others
+* Find these on https://github.com/explore/
 
 ## Join Online Communities 
+* Although socializing may not be something to list on your resume, it's important to stay up to date with news in an evolving industry
+* There are plenty of communities to network in
+* You can engage in discussions, share work, and keep up with latest industry news
+* Look for these at: [Stack Overflow](https://stackoverflow.com/) or [Github](https://github.com/)
+
+## Student Summer Opportunities 
+* The summer months are typically free for university students, opening up time to spend it as they please. Many companies offer opportunities to occupy this time.
+* [BlueStamp Engineering](https://bluestampengineering.com/) is a coding and CS summer program available in San Francisco, Palo Alto, and New York
+    * Students are able to choose their projects and document/retain ownership over any work completed
+    * The program offers a day in the life glimpse of many SE positions
+* RBC Summer Student Opportunities Technology & Operations - [Software Developer](https://jobs.rbc.com/ca/en/job/R-0000041261/2023-Summer-Student-Opportunities-Technology-Operations-Software-Developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+    * Consideration is given for roles of : Full Stack Developer, Android Developer, IOS Developer, API Developer, Web Developer etc.
+    * Students would be working 37.5 hours/week as a Student/Coop (fixed term) role where pay would be salaried
+
+***
+
+## **WORKS CITED**
+BrainStation® “Do You Need a Degree to Be a Web Developer? (2023 Guide).” BrainStation®, BrainStation®, 20 Dec. 2022, https://brainstation.io/career-guides/do-you-need-a-degree-to-be-a-web-developer#:~:text=Web%20Developer%20Degree&amp;text=A%20bachelor%27s%20degree%20in%20computer,Statistics%2C%20being%20an%20associate%20degree. 
+
+BrainStation® “What Does a Web Developer Do? (2023 Guide).” BrainStation®, BrainStation®, 20 Dec. 2022, https://brainstation.io/career-guides/what-does-a-web-developer-do. 
+
+Careercatalyst, https://careercatalyst.asu.edu/newsroom/career/how-to-become-a-web-developer/. 
+Cole, Ryah Cooley. “What Is Web Development, and Why Might You Pursue It?” Forbes, Forbes Magazine, 16 Feb. 2023, https://www.forbes.com/advisor/education/what-is-web-development/. 
+
+“Computer Science.” Ontario Universities' INFO, https://www.ontariouniversitiesinfo.ca/programs/203. 
+
+“CSC110Y1: Foundations of Computer Science I.” CSC110Y1 | Academic Calendar, https://artsci.calendar.utoronto.ca/course/csc110y1. 
+
+“Devpost.” New &amp; Upcoming Hackathons · Devpost, https://devpost.com/hackathons. 
+
+“Engage, Learn, and Earn -&nbsp;Webdeveloper.com.” WebDeveloper.com, https://forum.webdeveloper.com/. 
+
+“Explore Github.” GitHub, https://github.com/explore/. 
+
+“Front End Developer Average Salary in Canada.” Talent.com, https://ca.talent.com/salary?job=front%2Bend%2Bdeveloper#:~:text=How%20much%20does%20a%20Front%20end%20developer%20make%20in%20Canada%3F&amp;text=The%20average%20front%20end%20developer%20salary%20in%20Canada%20is%20%2485%2C360,up%20to%20%24127%2C500%20per%20year. 
+
+Frontend Developer Jobs | Upwork™. https://www.upwork.com/freelance-jobs/frontend-development/. 
+
+“FSL 100H1 F/s.” Department of French, 11 Oct. 2022, https://www.french.utoronto.ca/introductory-courses/fsl-100h1-fs. 
+
+Hire a Freelance Developer for Programming Jobs | Fiverr. https://www.fiverr.com/categories/programming-tech. 
+“Home.” Your Guide, https://newstudentguide.artsci.utoronto.ca/step-1/computer-science/. 
+
+“Jobs at RBC: Jobs at RBC.” Royal Bank of Canada, 1 Mar. 2023, https://jobs.rbc.com/ca/en. 
+
+Luiza. “10 Skills You Need to Be a Frontend Developer.” Merixstudio, 13 Dec. 2018, https://www.merixstudio.com/blog/10-skills-need-be-frontend-developer/. 
+
+“Major League Hacking.” Major League Hacking, https://mlh.io/. 
+
+“MAT137Y1: Calculus with Proofs.” MAT137Y1 | Academic Calendar, https://artsci.calendar.utoronto.ca/course/mat137y1. 
+
+“Sample Timetable.” Your Guide, https://newstudentguide.artsci.utoronto.ca/sample-timetable-computerscience/. 
+
+Stevens, Emily. “How to Get Your First Web Developer Job in 2023 (Guide).” CareerFoundry, 3 Jan. 2023, https://careerfoundry.com/en/blog/web-development/how-to-get-your-first-web-developer-job-the-ultimate-guide-for-junior-developers/. 
+
+Weheba, Farah. “Top Coding and Computer Science Summer Programs.” Empowerly, https://empowerly.com/blog/top-coding-and-computer-science-summer-programs. 
+
+“Where Developers Learn, Share, &amp; Build Careers.” Stack Overflow, https://stackoverflow.com/. 
