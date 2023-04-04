@@ -151,3 +151,25 @@ Breadth Requirement Categories:
 5. PMU: Physical and Mathematical Universes
 
 > Total time to complete Computer Science (Honours Bachelor of Science) at UofT is four years.
+
+*** 
+## **BUT WHAT CAN I DO OUTSIDE OF SCHOOL?**
+Aside from the studying all day, experiential learning is crucial to building a profile and landing a real job. Examples of these opportunities to expand your experience is detailed below. 
+
+## Hackathons
+* In a fun and competitive format, hackathons offer the perfect opportunity to practice your skills and meet new people. These events bring together developers to collaborate on various projects, allowing you to learn from your team members. 
+* Find these at [Major League Hacking (MLH)](https://mlh.io/) or at [Devpost](https://devpost.com/hackathons)
+> psst, MLH also has a 12-week fellowship program for aspiring software engineers
+
+## Volunteer Your Programming Skills
+* By volunteering your skills, you can build real-world experience and be able to add on a few interesting side projects to your resume
+* Not only that, you can give back to communities with your work
+
+## Freelance Work
+* Similar to voluteering, you can build real-wold experience and credibility to your professional profile
+* Offering your services to smaller companies may not be the most lucrative, but it does send a clear message to employers that you have usable real-world skills
+* Look for these on: [Upwork](https://www.upwork.com/freelance-jobs/frontend-development/) or [Fiverr](https://www.fiverr.com/categories/programming-tech?source=breadcrumbs)
+
+## Get Involved in Open Source Projects
+
+## Join Online Communities 
