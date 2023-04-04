@@ -3,7 +3,7 @@
 ## **WHAT IS IT?**
 Front-end web developers address the visual/design elements and interactable portion of websites/web applications ("client-side"). This is done using various langauges such as HTML, CSS, Javascript etc. They form the link between design in the user interface (UI) and the back-end systems. 
 
-![alt text](https://1.bp.blogspot.com/-l66HEPUGL7E/XU5xTuHLCkI/AAAAAAAAZ9g/SuENbsLjEPMgI49-44m2pEu4FYTrS4VQwCEwYBhgL/w1200-h630-p-k-no-nu/The%2BComplete%2BFront-End%2BWeb%2BDevelopment%2BCourse%2Bbest%2BUdemy%2Bcourse.jpg)
+<img src= https://1.bp.blogspot.com/-l66HEPUGL7E/XU5xTuHLCkI/AAAAAAAAZ9g/SuENbsLjEPMgI49-44m2pEu4FYTrS4VQwCEwYBhgL/w1200-h630-p-k-no-nu/The%2BComplete%2BFront-End%2BWeb%2BDevelopment%2BCourse%2Bbest%2BUdemy%2Bcourse.jpg width="500">
 
 ### Responsibilities:
 * Structure websites that can be easily found through a search engine (SEO = search engine optimization)
@@ -19,7 +19,7 @@ Front-end web developers address the visual/design elements and interactable por
 ### **What Education is Required?**
 > NOTE: There are many pathways to web development. Though many jobs descriptions may demand for the following, it is not always required. According to _Stack Overflow_, almost 70% of all developers are at least partially self-taught, with even 13% saying they are exclusively self-taught. 
 
-![alt text](https://a.ilovecoding.org/img/_blogs/self-taught/self-taught2018.png)
+<img src="https://a.ilovecoding.org/img/_blogs/self-taught/self-taught2018.png" width="500">
 
 In web development, there are few specific degrees, however it is traditionally coupled with a bachelor in computer science. The key to success is commitment to ongoing learning to stay on top of fast moving changes/updates to languages, tool and trends. 
 
@@ -47,8 +47,7 @@ A few possible paths in education are outlined below:
     * e.g. Google Developers Certification
     * increasingly worthwhile investment, employers are becoming more dependent
 
-![alt text](https://miro.medium.com/v2/1*9_ie81Gx8GQTOp4idauFLQ.png)
-
+<img src="https://miro.medium.com/v2/1*9_ie81Gx8GQTOp4idauFLQ.png" width="500">
 
 ### **What Technical and Non-Technical Skills do I need?**
 
@@ -63,7 +62,7 @@ A few possible paths in education are outlined below:
 | Angular               | One of this framework's main goals is to build single-page apps (SPAs). It provides a standard for members in a team to work with, as well as ease in creating large applications that are easy to manage. 
 | Swift                 | Swift is used to create iOS, iPadOS, macOS, tvOS, and watchOS applications. Frameworks and other third-party tools can easily be integrated with its built-in features and libraries.
 
-![alt text](https://codequotient.com/blog/wp-content/uploads/2022/09/8-Front-End-Programming-Languages-A-Front-End-Developer-1.jpg)
+<img src= https://codequotient.com/blog/wp-content/uploads/2022/09/8-Front-End-Programming-Languages-A-Front-End-Developer-1.jpg width="500">
 
 #### **Non-Technical Skills**
 
@@ -117,6 +116,9 @@ Analyze, design and implement enhancements to meet business requirements
 * Ensure compliance with audit requirements during the support and maintenance of applications
 * Provide second and third-line support, including evening and weekend paid overtime work as required
 
+<img src= https://alcor-bpo.com/wp-content/uploads/2022/06/Your-perfect-development-team-1.jpg width="500">
+
+
 ***
 
 ## **UNIVERSITY ENTRANCE**
@@ -151,6 +153,10 @@ Breadth Requirement Categories:
 5. PMU: Physical and Mathematical Universes
 
 > Total time to complete Computer Science (Honours Bachelor of Science) at UofT is four years.
+
+<img src= https://images.squarespace-cdn.com/content/v1/5c8e9a223560c34f9070706f/1619537158709-4WPFX9HLXKRCMWHIYZOH/UofT86042_20180420_BahenCentreEntrance_8447.jpg width="500">
+
+
 
 *** 
 ## **BUT WHAT CAN I DO OUTSIDE OF SCHOOL?**
@@ -189,6 +195,9 @@ Aside from the studying all day, experiential learning is crucial to building a 
 * RBC Summer Student Opportunities Technology & Operations - [Software Developer](https://jobs.rbc.com/ca/en/job/R-0000041261/2023-Summer-Student-Opportunities-Technology-Operations-Software-Developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
     * Consideration is given for roles of : Full Stack Developer, Android Developer, IOS Developer, API Developer, Web Developer etc.
     * Students would be working 37.5 hours/week as a Student/Coop (fixed term) role where pay would be salaried
+
+<img src= https://techcrunch.com/wp-content/uploads/2015/07/hackathon.png width="500">
+
 
 ***
 
